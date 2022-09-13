@@ -1,2 +1,2 @@
 # HW1
-Foundations of Data Science: Dr. Bianco
+HW1_videos_test.ipynb
