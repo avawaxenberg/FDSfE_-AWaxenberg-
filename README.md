@@ -9,3 +9,6 @@ https://colab.research.google.com/drive/1lrVVgmhSbw6Q4SIqWdjCwxsoAE_lw9NP#scroll
 
 # HW6: Exploring use of Kaggletrees (kaggle), through methods like json, ls, gbt, rf, and fistd to print out certain stats about data. 
 https://colab.research.google.com/drive/1mpBvUIOoze2x9FTlMuzJRNuIB2nREGFL
+
+# HW7: Diving deeper into use of kaggle and kaggle competitions using sentiment analysis of movie reviews from a data set. ## WORK IN PROGRESS: for some reason the file won't load when I connect to my drive, and I'm not sure how to fix it. 
+https://colab.research.google.com/drive/1rVSJEgphcU2UoAk7xhmYWU-iwi_VtbPd#scrollTo=QmNyep26cUQL
